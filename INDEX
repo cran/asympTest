@@ -1,0 +1,8 @@
+asymp.test              Asymptotic tests
+seDMean                 seDMean function
+seDMeanG                seDMeanG function
+seDVar                  seDVar function
+seMean                  seMean functio
+seRMean                 seRMean function
+seRVar                  seRVar function
+seVar                   seVar function

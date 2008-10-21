@@ -1,0 +1,12 @@
+export(asymp.test,seMean,seVar,seDMean,seDMeanG,seDVar,seRMean,seRVar)
+#S3methods are not viewable inside the R system. If you want this functionality available put it in the previous export
+S3method(asymp.test,default)
+S3method(asymp.test,formula)
+S3method(seMean,default)
+S3method(seVar,default)
+S3method(seDMean,default)
+S3method(seDMeanG,default)
+S3method(seDVar,default)
+S3method(seRMean,default)
+S3method(seRVar,default)
+
