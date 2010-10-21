@@ -73,9 +73,14 @@ asymp.test(x,y)$stat
 (mean(x)-mean(y))/seDMean(x,y)
 }
 
-\references{ Coeurjolly, J.F. Drouilhet, R. Lafaye de Micheaux, P. Robineau, J.F. (2008) asympTest: R package for performing asymptotic parametric tests and confidence intervals, submitted to Journal of Statistical Software }
+\references{ Coeurjolly, J.F. Drouilhet, R. Lafaye de Micheaux,
+  P. Robineau, J.F. (2008) asympTest: a simple R package for performing
+  classical parametric statistical tests and confidence intervals in
+  large samples, The R Journal }
 \author{ J.-F. Coeurjolly, R. Drouilhet, P. Lafaye de Micheaux, J.-F. Robineau }
 
 
-%\keyword{ }
-
+% Add one or more standard keywords, see file 'KEYWORDS' in the
+% R documentation directory.
+\keyword{htest}
+\keyword{univar}% __ONLY ONE__ keyword per line

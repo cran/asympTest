@@ -1,20 +1,22 @@
 citHeader("To cite the asympTest package in publications use:")
 
 citEntry(entry="Article",
-         title = "asympTest: an R package for performing asymptotic parametric statistical tests and confidence intervals",
+         title = "asympTest: a simple R package for performing classical parametric statistical tests and confidence intervals in large samples",
          author = personList(as.person("J.-F. Coeurjolly"), 
                              as.person("R. Drouilhet"),
 			     as.person("P. Lafaye de Micheaux"),
-			     as.person("J.-F. Robineau")),
-	 publisher = "Journal of Statistical Software",
-         year         = 2008,
-         note         = "Software: R Package, asympTest, version 0.1.0",
-         url          = "http://www.cqls.org",
+			     as.person("J.-F. Robineau")
+				),
+	 journal      = "The R Journal",
+         year         =  2009,
+         note         = "Software: R Package, asympTest, version 0.1.1",
+         url          = "",
          
-         textVersion = paste("Coeurjolly, J.-F., Drouilhet, R., Lafaye De Micheaux, P. and Robineau J.-F. (2008)", 
-               "asympTest: an R package for performing asymptotic parametric statistical tests and confidence intervals",
-               "Journal of Statistical Software",
-              "(Software: R Package, asympTest, version 0.1.0)"
+         textVersion  = 
+         paste("Coeurjolly, J.-F., Drouilhet, R., Lafaye De Micheaux, P. and Robineau J.-F. (2009)", 
+               "asympTest: a simple R package for performing classical parametric statistical tests and confidence intervals in large samples",
+               "The R Journal",
+              "(Software: R Package, asympTest, version 0.1.2)"
 	      )
 )
 

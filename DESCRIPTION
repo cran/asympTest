@@ -1,11 +1,13 @@
 Package: asympTest
-Version: 0.1.0
-Date: 2008-10-21
+Version: 0.1.2
+Date: 2010-10-21
 Title: Asymptotic statistic
 Author: Cqls Team
-Maintainer: Cqls Team <jean-francois.coeurjolly@upmf-grenoble.fr>
+Maintainer: Cqls Team <lafaye@dms.umontreal.ca>
 Depends: R (>= 1.8.0)
 Description: Asymptotic testing
-License: GPL Version 2 or later.
+License: GPL (>= 2)
 URL: http://www.r-project.org
-Packaged: Tue Oct 21 13:02:29 2008; remy
+Packaged: 2010-10-21 19:03:59 UTC; lafaye
+Repository: CRAN
+Date/Publication: 2010-10-23 07:43:05

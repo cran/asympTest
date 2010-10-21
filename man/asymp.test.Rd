@@ -53,7 +53,7 @@ reference = 0, conf.level = 0.95, rho = 1, ...)
 \value{
   A list with class "htest" containing the following components:
   
-  \item{ statistic }{ the value of the unified $\theta$ statistic. }
+  \item{ statistic }{ the value of the unified \eqn{\theta} statistic. }
   \item{ p.value }{ the p-value for the test. }
   \item{ conf.int }{ a confidence interval for the parameter appropriate to the specified alternative hypothesis. }
   \item{ estimate }{ the estimated parameter depending on whether it wasa one-sample test or a two-sample test (in which case the estimated parameter can be a difference/ratio in means/variances). }
@@ -62,7 +62,10 @@ reference = 0, conf.level = 0.95, rho = 1, ...)
   \item{ method }{ a character string indicating what type of asymptotictest was performed. }
   \item{ data.name }{ a character string giving the name(s) of the data. }
 }
-\references{ Coeurjolly, J.F. Drouilhet, R. Lafaye de Micheaux, P. Robineau, J.F. (2008) asympTest: R package for performing asymptotic parametric tests and confidence intervals, submitted to Journal of Statistical Software }
+\references{C oeurjolly, J.F. Drouilhet, R. Lafaye de Micheaux,
+  P. Robineau, J.F. (2009) asympTest: a simple R package for performing
+  classical parametric statistical tests and confidence intervals in
+  large samples, The R Journal }
 \author{ J.-F. Coeurjolly, R. Drouilhet, P. Lafaye de Micheaux, J.-F. Robineau }
 
 \seealso{ \code{\link{t.test}}, \code{\link{var.test}} for normal distributed data. }
