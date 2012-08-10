@@ -1,0 +1,11 @@
+2d2542b0f1ebbd2636c75b5cbaddc386 *DESCRIPTION
+5bfe9a080e80f59221eee9e53081954a *INDEX
+fd40bfb33459eabe6d018af4872b44c6 *NAMESPACE
+cbf48fcd606c3cd0ccf07d9a5bd5f468 *R/asympTest.R
+94ab3991fdcaafd628fbed63cb233f30 *R/se.R
+e8b739df43e6560814c524d771d27b9f *data/DIGdata.csv
+faf4f2b656ded0f5cbf7cf8c1e0484bb *inst/CITATION
+728d0d19cb6230e76f2cb42d7ff37bc8 *inst/HISTORY
+132ff9e93b4d7e1f421965e55395ec10 *man/DIGdata.Rd
+a79b58abd1e146877e0e720303942a07 *man/asymp.test.Rd
+c0a17c142f4bfd7050ec580286c38f18 *man/seMean.Rd
