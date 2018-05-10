@@ -10,3 +10,4 @@ S3method(seDVar,default)
 S3method(seRMean,default)
 S3method(seRVar,default)
 
+importFrom("stats", "pnorm", "qnorm", "terms", "var")

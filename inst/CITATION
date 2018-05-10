@@ -4,19 +4,19 @@ citEntry(entry="Article",
          title = "asympTest: a simple R package for performing classical parametric statistical tests and confidence intervals in large samples",
          author = personList(as.person("J.-F. Coeurjolly"), 
                              as.person("R. Drouilhet"),
-			     as.person("P. Lafaye de Micheaux"),
+			     as.person("Pierre Lafaye de Micheaux"),
 			     as.person("J.-F. Robineau")
 				),
 	 journal      = "The R Journal",
          year         =  2009,
-         note         = "Software: R Package, asympTest, version 0.1.1",
+         note         = "Software: R Package, asympTest, version 0.1.4",
          url          = "",
          
          textVersion  = 
          paste("Coeurjolly, J.-F., Drouilhet, R., Lafaye De Micheaux, P. and Robineau J.-F. (2009)", 
                "asympTest: a simple R package for performing classical parametric statistical tests and confidence intervals in large samples",
                "The R Journal",
-              "(Software: R Package, asympTest, version 0.1.2)"
+              "(Software: R Package, asympTest, version 0.1.4)"
 	      )
 )
 
